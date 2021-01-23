@@ -1,0 +1,21 @@
+[ {
+  "uid" : "e1bc821526db0767",
+  "name" : "Check the title",
+  "time" : {
+    "start" : 1610557424050,
+    "stop" : 1610557479412,
+    "duration" : 55362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76265289100cc078",
+  "name" : "Check the title",
+  "time" : {
+    "start" : 1610557485127,
+    "stop" : 1610557486955,
+    "duration" : 1828
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

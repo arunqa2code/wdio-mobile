@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "webdriver.io page",
+    "children" : [ {
+      "name" : "Check the title",
+      "uid" : "e1bc821526db0767",
+      "parentUid" : "601e7f3c0a9c957fa7f229ca6a567c98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610557424050,
+        "stop" : 1610557479412,
+        "duration" : 55362
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-87.0.4280.88" ]
+    } ],
+    "uid" : "601e7f3c0a9c957fa7f229ca6a567c98"
+  }, {
+    "name" : "Homedepot Production page",
+    "children" : [ {
+      "name" : "Check the title",
+      "uid" : "76265289100cc078",
+      "parentUid" : "75fc65161cb1936fe883bb5502756dec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610557485127,
+        "stop" : 1610557486955,
+        "duration" : 1828
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-87.0.4280.88" ]
+    } ],
+    "uid" : "75fc65161cb1936fe883bb5502756dec"
+  } ]
+}

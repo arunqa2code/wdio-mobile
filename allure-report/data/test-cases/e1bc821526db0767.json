@@ -1,0 +1,66 @@
+{
+  "uid" : "e1bc821526db0767",
+  "name" : "Check the title",
+  "fullName" : "webdriver.io page.Check the title",
+  "historyId" : "2276711f8ad08c8e396f12688e93a9eb",
+  "time" : {
+    "start" : 1610557424050,
+    "stop" : 1610557479412,
+    "duration" : 55362
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check the title"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-87.0.4280.88"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1df61cbacd240212",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610556717160,
+        "stop" : 1610556767550,
+        "duration" : 50390
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1bc821526db0767.json",
+  "parameterValues" : [ "chrome-87.0.4280.88" ]
+}
